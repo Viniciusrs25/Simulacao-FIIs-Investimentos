@@ -44,8 +44,5 @@ A solução calcula automaticamente:
 - Fórmulas financeiras de capitalização
 - Conceitos de Fundos Imobiliários (FIIs)
 
-## 📝 Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENÇA](./LICENÇA) para detalhes.
-
 ## 🙋‍♂️ Autor
 Desenvolvido por Vinícius Rodrigues.
